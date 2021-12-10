@@ -81,7 +81,8 @@ body {
   font-family: var(--body-font);
   font-size: var(--smaller-font-size);
   background-image: url("../images/pattern-background-desktop.svg");
-  color: var(--de-neutral);
+  background-repeat: no-repeat;
+  color: var(--pale-neutral);
   height: 100%;
   width: 100%;
   line-height: 1.6;
